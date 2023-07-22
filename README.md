@@ -1,2 +1,4 @@
 # Final-Project-Bsc
 Final university project that consists of creating a web page with interactive maps.
+The purpose of the project is to develop a tool that allows: i) to manage all public facilities under the management of the Parish of Vila Real; ii) carry out a characterization of the various types of equipment, such as multi-sports parks, playgrounds, schools and spaces for the board's attendance; iii) carry out a georeferenced survey of the same; iv) enter the data into a geographic information system; v) produce thematic maps to be published on a web page, allowing the general public to discover and understand the themes in the way that suits them best.
+To achieve the proposed objectives, the following technologies were used: as a Geographic Information System, QGIS (Quantum Geographic Information System); the files with the georeferenced data are in GEOJSON format and the web implementation used the Leaflet library.
